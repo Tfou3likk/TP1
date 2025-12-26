@@ -69,4 +69,14 @@
     <servlet-name>ServletDevinetteRes</servlet-name>
     <url-pattern>/ServletDevinetteRes</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ServletRecettes</display-name>
+    <servlet-name>ServletRecettes</servlet-name>
+    <servlet-class>tp1duo.ServletRecettes</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletRecettes</servlet-name>
+    <url-pattern>/ServletRecettes</url-pattern>
+  </servlet-mapping>
 </web-app>
