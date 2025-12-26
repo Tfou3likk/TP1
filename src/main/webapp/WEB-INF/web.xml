@@ -40,15 +40,6 @@
     <servlet-name>ServletWelcome</servlet-name>
     <url-pattern>/ServletWelcome</url-pattern>
   </servlet-mapping>
-  <display-name>TP1</display-name>
-  <welcome-file-list>
-    <welcome-file>index.html</welcome-file>
-    <welcome-file>index.htm</welcome-file>
-    <welcome-file>index.jsp</welcome-file>
-    <welcome-file>default.html</welcome-file>
-    <welcome-file>default.htm</welcome-file>
-    <welcome-file>default.jsp</welcome-file>
-  </welcome-file-list>
   <servlet>
     <description></description>
     <display-name>ServletDevinette</display-name>
@@ -69,4 +60,24 @@
     <servlet-name>ServletDevinetteRes</servlet-name>
     <url-pattern>/ServletDevinetteRes</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ServletRessources</display-name>
+    <servlet-name>ServletRessources</servlet-name>
+    <servlet-class>tp1plus.ServletRessources</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ServletRessources</servlet-name>
+    <url-pattern>/Ressources/ServletRessources</url-pattern>
+  </servlet-mapping>
+  <display-name>TP1</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  
 </web-app>
