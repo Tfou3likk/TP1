@@ -1,0 +1,8 @@
+Ce fichier texte a été créé pour contenir des informations générales.
+Il peut servir de base pour des tests, des notes personnelles ou de la documentation simple.
+
+Le format TXT est volontairement minimaliste.
+Il ne contient aucune mise en forme particulière, ce qui le rend compatible avec tous les systèmes et logiciels.
+
+Vous pouvez librement modifier, supprimer ou ajouter du contenu selon vos besoins.
+Par exemple, vous pouvez y noter des idées, des listes de tâches, des journaux quotidiens ou des informations techniques.
